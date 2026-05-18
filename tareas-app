@@ -2,3 +2,6 @@ git init
 node_modules/
 git add .
 git commit -m "Mi primer commit de app-tareas"
+git branch -M main
+git remote add origin https://github.com/TU_USUARIO/app-tareas.git
+git push -u origin main
