@@ -1,2 +1,4 @@
 git init
 node_modules/
+git add .
+git commit -m "Mi primer commit de app-tareas"
